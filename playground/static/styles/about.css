@@ -1,0 +1,48 @@
+body#aboutPage{
+  background-image:url("https://images.pexels.com/photos/773063/pexels-photo-773063.jpeg?cs=srgb&dl=ball-baseball-black-and-white-773063.jpg&fm=jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+.header {
+  background: #ffffff;
+  /*padding-right: 3.75%;
+  padding-left: 3.75%;*/
+  min-width: 320px;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: fixed;
+}
+.header img {
+  float:right;
+  width:283px;
+  height:96px;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+
+.header nav {
+  padding-right:3.75%;
+  padding-left:3.75%;
+}
+
+.header nav a {
+  font-size: 1.4em !important;
+}
+.message_box {
+  text-align: center;
+}
+.message {
+  display: inline-block;
+  text-align: center;
+  width: 80%;
+  height: 60%;
+  background-color: #ffffff;
+  /*font-size: 80%;*/
+  margin-top: 15%;
+  margin-bottom: 15%;
+  opacity: 0.8;
+  font-style: italic;
+}

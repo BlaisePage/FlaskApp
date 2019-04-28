@@ -1,0 +1,346 @@
+Players Names that caused errors in my app:
+
+A.J. Cole
+J.P. Crawford
+C.J. Cron
+J.D. Davis
+R.A. Dickey
+A.J. Ellis
+A.J. Griffin
+J.A. Happ
+J.J. Hardy
+J.P. Howell
+A.J. Jimenez
+J.D. Martinez
+T.J. McFarland
+A.J. Morris
+A.J. Pierzynski
+A.J. Pollock
+J.T. Realmuto
+T.J. Rivera
+A.J. Schugel
+D.J. Snelten
+Michael A. Taylor
+
+Jose Abreu Not added
+Jim Adduci Not added
+Abraham Almonte Not added
+Jose Altuve Not added
+Jose Alvarado Not added
+Jose Alvarez Not added
+Pedro Alvarez Not added
+Brett Anderson Not added
+Brian Anderson Not added
+Chase Anderson Not added
+Drew Anderson Not added
+Tanner Anderson Not added
+Tim Anderson Not added
+Tyler Anderson Not added
+Tyler Austin Not added
+Mike Aviles Not added
+Pedro Baez Not added
+Austin Barnes Not added
+Trevor Bauer Not added
+Jose Bautista Not added
+Chris Beck Not added
+Josh Bell Not added
+Carlos Beltran Not added
+Adrian Beltre Not added
+Aaron Blair Not added
+Matthew Boyd Not added
+Chasen Bradford Not added
+Ryan Braun Not added
+Jose Briceno Not added
+Trevor Brown Not added
+Andy Burns Not added
+Billy Burns Not added
+Miguel Cabrera Not added
+Eric Campbell Not added
+Matt Carpenter Not added
+Carlos Carrasco Not added
+Chris Carter Not added
+Nicholas Castellanos Not added
+Diego Castillo Not added
+Jose Castillo Not added
+Luis Castillo Not added
+Daniel Castro Not added
+Juan Centeno Not added
+Matt Chapman Not added
+JT Chargois Not added
+Paul Clemens Not added
+Tyler Collins Not added
+P.J. Conlon Not added
+Nelson Cruz Not added
+Charlie Culberson Not added
+Todd Cunningham Not added
+Matt Davidson Not added
+Zach Davies Not added
+Austin Davis Not added
+Chris Davis Not added
+Ike Davis Not added
+Jonathan Davis Not added
+Taylor Davis Not added
+Alejandro De Aza Not added
+Ivan De Jesus Not added
+Joel De La Cruz Not added
+Jorge De La Rosa Not added
+Rubby De La Rosa Not added
+Jose De Leon Not added
+Enyel De Los Santos Not added
+Nicky Delmonico Not added
+Matt den Dekker Not added
+Delino DeShields Not added
+Edwin Diaz Not added
+Elias Diaz Not added
+Miguel Diaz Not added
+Alex Dickerson Not added
+Matt Duffy Not added
+Matt Duffy Not added
+Adam Eaton Not added
+Marco Estrada Not added
+Michael Feliz Not added
+Jose Fernandez Not added
+Jose Miguel Fernandez Not added
+Josh Fields Not added
+Derek Fisher Not added
+Jack Flaherty Not added
+Ramon Flores Not added
+Brian Flynn Not added
+David Freese Not added
+Rey Fuentes Not added
+Isaac Galloway Not added
+Greg Garcia Not added
+Jaime Garcia Not added
+Luis Garcia Not added
+Kyle Gibson Not added
+Chris Gimenez Not added
+Carlos Gomez Not added
+Miguel Gomez Not added
+Roberto Gomez Not added
+Marco Gonzales Not added
+Adrian Gonzalez Not added
+Alfredo Gonzalez Not added
+Carlos Gonzalez Not added
+Miguel Gonzalez Not added
+Brian Goodwin Not added
+Alex Gordon Not added
+Phil Gosselin Not added
+Zack Granite Not added
+Jon Gray Not added
+Chad Green Not added
+Javy Guerra Not added
+Javy Guerra Not added
+Billy Hamilton Not added
+Justin Hancock Not added
+Matt Harvey Not added
+Chris Hatcher Not added
+Drew Hayes Not added
+Austin Hedges Not added
+Kyle Hendricks Not added
+Ariel Hernandez Not added
+Cesar Hernandez Not added
+David Hernandez Not added
+Enrique Hernandez Not added
+Felix Hernandez Not added
+Marco Hernandez Not added
+Oscar Hernandez Not added
+Roberto Hernandez Not added
+Frank Herrmann Not added
+John Hicks Not added
+Jordan Hicks Not added
+Aaron Hill Not added
+Rich Hill Not added
+Tim Hill Not added
+Jeff Hoffman Not added
+Tyler Holt Not added
+Ryan Howard Not added
+Daniel Hudson Not added
+Joe Hudson Not added
+Austin Jackson Not added
+Luke Jackson Not added
+Dan Jennings Not added
+Kyle Jensen Not added
+Brian Johnson Not added
+Chris Johnson Not added
+Erik Johnson Not added
+Jim Johnson Not added
+Kelly Johnson Not added
+Micah Johnson Not added
+Adam Jones Not added
+Jung Ho Kang Not added
+Shawn Kelley Not added
+Casey Kelly Not added
+Ty Kelly Not added
+Matt Kemp Not added
+Brett Kennedy Not added
+Hyun Soo Kim Not added
+Matt Koch Not added
+Kevin Kramer Not added
+Tommy La Stella Not added
+John Lackey Not added
+John Lamb Not added
+Mark Leiter Jr. Not added
+Jonathan Loaisiga Not added
+Jose Lobaton Not added
+Steve Lombardozzi Not added
+Javier Lopez Not added
+Jorge Lopez Not added
+Pablo Lopez Not added
+Rafael Lopez Not added
+Brandon Lowe Not added
+Russell Martin Not added
+Carlos Martinez Not added
+Jose Martinez Not added
+Michael Martinez Not added
+Nick Martinez Not added
+Victor Martinez Not added
+Bruce Maxwell Not added
+Jacob May Not added
+James McCann Not added
+Lance McCullers Jr. Not added
+Billy McKinney Not added
+Ryan McMahon Not added
+Francisco Mejia Not added
+Andrew Miller Not added
+Brad Miller Not added
+Justin Miller Not added
+Mike Miller Not added
+Miguel Montero Not added
+Jordan Montgomery Not added
+Mike Montgomery Not added
+Adam Moore Not added
+Matt Moore Not added
+Tyler Moore Not added
+Colin Moran Not added
+Bryan Morris Not added
+Mike Morse Not added
+Charlie Morton Not added
+Brandon Moss Not added
+Daniel Murphy Not added
+John Ryan Murphy Not added
+Tom Murphy Not added
+Mike Napoli Not added
+Jimmy Nelson Not added
+Jon Niese Not added
+Eduardo Nunez Not added
+Ryan O'Hearn Not added
+Rougned Odor Not added
+Matt Olson Not added
+Rafael Ortega Not added
+David Ortiz Not added
+Jordan Pacheco Not added
+Angel Pagan Not added
+ByungHo Park Not added
+Steve Pearce Not added
+Francisco Pena Not added
+Ramiro Pena Not added
+Jose Peraza Not added
+Luis Perdomo Not added
+Carlos Perez Not added
+Martin Perez Not added
+Michael Perez Not added
+Roberto Perez Not added
+Tim Peterson Not added
+Daniel Ponce de Leon Not added
+Boog Powell Not added
+David Price Not added
+Erasmo Ramirez Not added
+JC Ramirez Not added
+Jose Ramirez Not added
+AJ Reed Not added
+Cody Reed Not added
+Michael Reed Not added
+Alex Reyes Not added
+Jose Reyes Not added
+Pablo Reyes Not added
+Victor Reyes Not added
+Mark Reynolds Not added
+Matt Reynolds Not added
+Rene Rivera Not added
+Anthony Rizzo Not added
+Daniel Robertson Not added
+Daniel Robertson Not added
+Victor Robles Not added
+Alex Rodriguez Not added
+Eduardo Rodriguez Not added
+Richard Rodriguez Not added
+Ronny Rodriguez Not added
+Sean Rodriguez Not added
+Jason Rogers Not added
+Miguel Rojas Not added
+Jimmy Rollins Not added
+Jose Rondon Not added
+David Ross Not added
+Joe Ross Not added
+Carlos Ruiz Not added
+Brendan Ryan Not added
+Danny Salazar Not added
+Adrian Sanchez Not added
+Angel Sanchez Not added
+Gary Sanchez Not added
+Hector Sanchez Not added
+Tony Sanchez Not added
+Yolmer Sanchez Not added
+Carlos Santana Not added
+Domingo Santana Not added
+Hector Santiago Not added
+Luis Severino Not added
+Chris Shaw Not added
+Travis Shaw Not added
+James Shields Not added
+Matt Shoemaker Not added
+Caleb Smith Not added
+Chris Smith Not added
+Dominic Smith Not added
+Dwight Smith Jr. Not added
+Josh Smith Not added
+Tyler Smith Not added
+Brandon Snyder Not added
+Juan Soto Not added
+Robert Stephenson Not added
+Brock Stewart Not added
+Chris Stewart Not added
+Chris Stratton Not added
+Albert Suarez Not added
+Masahiro Tanaka Not added
+Chris Taylor Not added
+Jake Thompson Not added
+Jose Torres Not added
+Ramon Torres Not added
+Kyle Tucker Not added
+Preston Tucker Not added
+Jacob Turner Not added
+Justin Turner Not added
+Melvin Upton Jr. Not added
+Jose Urena Not added
+Juan Uribe Not added
+Scott Van Slyke Not added
+Christian Vazquez Not added
+Felipe Vazquez Not added
+Hector Velazquez Not added
+Daniel Vogelbach Not added
+Tyler Wagner Not added
+Kyle Waldrop Not added
+Brett Wallace Not added
+Colin Walsh Not added
+David Washington Not added
+Tyler Webb Not added
+Ryan Weber Not added
+Rob Whalen Not added
+Zack Wheeler Not added
+Tyler White Not added
+Justin Williams Not added
+Nick Williams Not added
+Taylor Williams Not added
+Trevor Williams Not added
+Bobby Wilson Not added
+Justin Wilson Not added
+Hunter Wood Not added
+Daniel Wright Not added
+David Wright Not added
+Mike Wright Not added
+Steven Wright Not added
+Chris Young Not added
+Chris Young Not added
+Eric Young Jr. Not added
+Ryan Zimmerman Not added

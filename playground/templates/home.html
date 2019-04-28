@@ -1,0 +1,47 @@
+
+
+<html>
+  <head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/home.css') }}">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+
+  <!-- Navbar Header -->
+  <div class="header">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" href="/home"> Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/calculate">Calculate Stats</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/about">About</a>
+          </li>
+        </ul>
+        <img src="https://github.com/BlaisePage/Blaise_Stats/blob/master/imgs/blaise_stats_logo.jpg?raw=true" alt="" />
+      </div>
+    </nav>
+  </div>
+
+  <body id="HomePage">
+
+    <div class="message_box">
+      <div class="message">
+        <h1>
+          Evaluate MLB players using EGS and LGS metrics brought to you by Blaise Stats
+        </h1>
+      </div>
+    </div>
+
+  </body>
+
+</html>

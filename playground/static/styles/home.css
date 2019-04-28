@@ -1,0 +1,50 @@
+body#HomePage {
+  background-image:url("https://images.pexels.com/photos/168567/pexels-photo-168567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+  text-align: center;
+}
+
+.header {
+  background: #ffffff;
+  /*padding-right: 3.75%;
+  padding-left: 3.75%;*/
+  min-width: 320px;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: fixed;
+}
+.header img {
+  float:right;
+  width:283px;
+  height:96px;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+
+.header nav {
+  padding-right:3.75%;
+  padding-left:3.75%;
+}
+
+.header nav a {
+  font-size: 1.4em !important;
+}
+
+.message {
+  display: inline-block;
+  text-align: center;
+  width: 40%;
+  height: 20%;
+  background-color: #ffffff;
+  /*font-size: 2.2em;*/
+  /*font-size: calc(3vw + 1vh);*/
+  /*font-size: 70%*/
+  font-size: 40%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  opacity: 0.8;
+  font-style: italic;
+}

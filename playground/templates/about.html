@@ -1,0 +1,47 @@
+
+
+<html>
+  <head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/about.css') }}">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+
+  <!-- Navbar Header -->
+  <div class="header">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" href="/home"> Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/calculate">Calculate Stats</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/about">About</a>
+          </li>
+        </ul>
+        <img src="https://github.com/BlaisePage/Blaise_Stats/blob/master/imgs/blaise_stats_logo.jpg?raw=true" alt="" />
+      </div>
+    </nav>
+  </div>
+
+  <body id="aboutPage">
+
+    <div class="message_box">
+      <div class="message">
+        <h2>
+          Blaise Stats is an interactive web app focused on bringing new, innovative baseball stats to the public. Currently, Blaise Stats focuses on Late Game Slugging (LGS) and Early Game Slugging (EGS). LGS is a metric that depicts a player's Slugging percentage in the 8th inning and above; while, EGS is a metric that depicts a player's Slugging percentage in the 7th inning and below. These metrics can be used to visualize how a batter's efficiency at the plate changes as the game progresses. Note that Blasie Stats currently uses the Statcast data from the 2016, 2017, and 2018 MLB seasons. Therefore, players that did not play during these seasons will not be able to be searched. Moreover, some players' names caused issues when querering the data. A full list of 2016-1018 players that are not searchable by Blaise Stats can be found <a href="https://github.com/BlaisePage/Blaise_Stats/blob/master/src/helper_code/players_not_available.txt">here</a>. To view how I came up with these stats go to my github repo  <a href="https://github.com/BlaisePage/Blaise_Stats">here</a>.
+        </h2>
+      </div>
+    </div>
+
+  </body>
+
+</html>
